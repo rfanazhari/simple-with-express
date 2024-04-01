@@ -1,0 +1,24 @@
+{
+  "name": "rest-express",
+  "version": "1.0.0",
+  "description": "rest-express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rfanazhari",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-winston": "^4.2.0",
+    "joi": "^17.12.2",
+    "moment-timezone": "^0.5.45",
+    "mysql2": "^3.9.3",
+    "sequelize": "^6.37.1",
+    "winston": "^3.13.0"
+  }
+}
